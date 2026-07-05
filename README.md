@@ -1,5 +1,6 @@
 # JAKUB-Script-for-debloating-windows
 A script made by me using others scripts 
+Its not vibecoded and if it was i would admit to it
 
 Results Qemu 50G hard disk 8G ram stock tiny 11
 
