@@ -11,6 +11,12 @@ Results Qemu 50G hard disk 8G ram stock tiny 11
 
 <img width="487" height="190" alt="image" src="https://github.com/user-attachments/assets/c91a8e1b-1a45-4a90-9b0a-c02192119b6f" />
 
+# How to run it
+ first you need to download it
+ Run it as administrator
+ Enter "y" to read readme file
+ And it will run
+
 # What does it do
  1. Uninstall Edge
  2. Remove Telemetry
