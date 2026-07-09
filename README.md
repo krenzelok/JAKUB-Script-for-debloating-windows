@@ -26,5 +26,5 @@ Results Qemu 50G hard disk 8G ram stock tiny 11
  5. Remove Microsoft store (Optional) or only bloat
  6. Install essential programs like 7zip (Optional firefox if you dont have a browser)
 
-# This is a very first release
+# This is a very early release
  if you have problems make sure to open a pull
